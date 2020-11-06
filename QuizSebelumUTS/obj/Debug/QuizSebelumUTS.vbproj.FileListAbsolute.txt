@@ -1,0 +1,12 @@
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\bin\Debug\QuizSebelumUTS.exe.config
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\bin\Debug\QuizSebelumUTS.exe
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\bin\Debug\QuizSebelumUTS.pdb
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\bin\Debug\QuizSebelumUTS.xml
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.Form1.resources
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.Resources.resources
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.vbproj.GenerateResource.cache
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.vbproj.CoreCompileInputs.cache
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.exe
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.xml
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.pdb
+F:\School Folder\Perkuliahan\Pemrograman Visual\Quiz\QuizSebelumUTS\QuizSebelumUTS\obj\Debug\QuizSebelumUTS.vbprojAssemblyReference.cache
